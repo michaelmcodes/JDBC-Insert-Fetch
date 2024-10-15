@@ -1,4 +1,4 @@
-# JDBC_Insert_Fetch
+# JDBC-Insert-Fetch
 
 Demo using JDBC to insert and fetch data to MySQL database.
 
